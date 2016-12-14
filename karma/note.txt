@@ -1,0 +1,22 @@
+aac-term-script
+
+one script --> script
+2 input, museum name, term
+
+one uri
+one term
+
+material
+classification
+role
+
+{
+	"museum": {
+		"term": {
+			"term": ,
+			"uri":
+		}
+	}
+}
+
+
