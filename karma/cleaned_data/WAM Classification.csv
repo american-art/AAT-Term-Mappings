@@ -1,0 +1,67 @@
+Local Term,AAT Term,AAT LOD URI,Remarks
+Manuscripts & Rare Books-Asian Printed Books,books,http://vocab.getty.edu/aat/300028051,"no good term specific to books that are printed; in future, combine with techinque term for printing"
+Manuscripts & Rare Books-Holographs & Documents,documents (object genre),http://vocab.getty.edu/aat/300026030,
+Manuscripts & Rare Books-Incunabula,incunabula,http://vocab.getty.edu/aat/300055021,
+Manuscripts & Rare Books-Manuscripts,manuscripts (documents),http://vocab.getty.edu/aat/300028569,
+Manuscripts & Rare Books-Printed Books After 1500,books,http://vocab.getty.edu/aat/300028051,"no good term specific to books that are printed; in future, combine with techinque term for printing"
+Objects: Metals-Arms & Armor,,,"I think we need to choose one, weapons or armor"
+Objects: Metals-Brass & Copper,copper alloy,http://vocab.getty.edu/aat/300010942,
+Objects: Metals-Bronze & Ormolu,copper alloy,http://vocab.getty.edu/aat/300010942,
+Objects: Metals-Coins & Medals,numismatics,http://vocab.getty.edu/aat/300054419,"this is from activities facet, does that cause a problem?"
+"Objects: Metals-Gold, Silver & Jewelry",,,grrr
+Objects: Metals-Iron & Steel,iron alloy,http://vocab.getty.edu/aat/300010904,
+Objects: Metals-Other Metals & Alloys,metal,http://vocab.getty.edu/aat/300010900,
+Objects: Metals-Pewter & Lead,metal,http://vocab.getty.edu/aat/300010900,
+"Objects: Metals-Timepieces, Clocks & Watches",timepieces,http://vocab.getty.edu/aat/300041573,
+Objects: Minerals & Inorganics-Ceramics,ceramic (material),http://vocab.getty.edu/aat/300235507,or ceramic ware (visual works)
+Objects: Minerals & Inorganics-Ceramics (Asian),ceramic (material),http://vocab.getty.edu/aat/300235507,or ceramic ware (visual works)
+Objects: Minerals & Inorganics-Cut & Other Glasswares,glass (material),http://vocab.getty.edu/aat/300010797,
+Objects: Minerals & Inorganics-Enamels & Enamelled Metalworks,enamels (visual works),http://vocab.getty.edu/aat/300178264,
+Objects: Minerals & Inorganics-Mosaics & Cosmati,mosaics (visual works),http://vocab.getty.edu/aat/300015342,"mosaics and cosmati are different things, but the parent term is ""visual works"""
+Objects: Minerals & Inorganics-Niello,niellos (engraved works),http://vocab.getty.edu/aat/300184867,
+Objects: Minerals & Inorganics-Precious Stones & Gems,gemstone,http://vocab.getty.edu/aat/300201964,
+Objects: Minerals & Inorganics-Stained & Painted Glass,glass (material),http://vocab.getty.edu/aat/300010797,
+Objects: Minerals & Inorganics-Stone,stone (worked rock),http://vocab.getty.edu/aat/300011176,
+Objects: Organics-Amber,amber (fossil resin),http://vocab.getty.edu/aat/300012934,
+Objects: Organics-Composite,composite material,http://vocab.getty.edu/aat/300014627,
+Objects: Organics-Ivory & Bone,bone (material),http://vocab.getty.edu/aat/300011798,
+Objects: Organics-Leather,leather,http://vocab.getty.edu/aat/300011845,
+Objects: Organics-Mummies,mummies (bodies),http://vocab.getty.edu/aat/300262951,
+Objects: Organics-Paper & Paper-Mache,fiber products,http://vocab.getty.edu/aat/300014062,
+"Objects: Organics-Pearl, Horn, Coral & Shell",,,all except horn fit under combination inorganic/organic animal material
+Objects: Organics-Stucco,stucco,http://vocab.getty.edu/aat/300014966,
+Objects: Organics-Wax,waxworks (sculpture),http://vocab.getty.edu/aat/300312200,"or ""wax"" from materials facet"
+Objects: Wood-Basketry & Wicker,wickerwork (visual works),http://vocab.getty.edu/aat/300044074,
+"Objects: Wood-Carvings, Statues & Altarpieces",woodwork (general works),http://vocab.getty.edu/aat/300015348,
+Objects: Wood-Decorative & Architectural,woodwork (general works),http://vocab.getty.edu/aat/300015348,
+Objects: Wood-Frames / Vehicles,frames (protective furnishings),http://vocab.getty.edu/aat/300189814,
+Objects: Wood-Furniture (Domestic),furniture,http://vocab.getty.edu/aat/300037680,
+Objects: Wood-Furniture (Religious),furniture,http://vocab.getty.edu/aat/300037680,
+Objects: Wood-Gourds,gourd,http://vocab.getty.edu/aat/300011870,
+Objects: Wood-Lacquer & Inlay,lacquer (coating),http://vocab.getty.edu/aat/300014916,inlay very different from lacquer
+Objects: Wood-Painted,woodwork (general works),http://vocab.getty.edu/aat/300015348,
+Painting & Drawing-African,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Ancient Egyptian,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Ancient Near Eastern,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Asian,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Classical Greek & Roman,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Islamic,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Miniatures (European & American),paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Painting & Drawing-Post-Classical Europe & America,paintings (visual works),http://vocab.getty.edu/aat/300033618,
+Prints-Prints,prints (visual works),http://vocab.getty.edu/aat/300041273,"possibly use ""impressions"", but need to consult others"
+Prints-Prints (Asian),prints (visual works),http://vocab.getty.edu/aat/300041273,
+Prints-Prints (Japanese Woodblock),woodcuts (prints),http://vocab.getty.edu/aat/300041405,
+Sculpture-African,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-American,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Ancient Egyptian,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Ancient Near Eastern,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Asian,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Classical Greek & Roman,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Islamic,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Native North & South American,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Sculpture-Post-Classical Europe & America,sculpture (visual works),http://vocab.getty.edu/aat/300047090,
+Textiles-Costumes & Accessories,costume (mode of fashion),http://vocab.getty.edu/aat/300178802,"according to scope note, includes accessories"
+Textiles-Lace,lace (needlework),http://vocab.getty.edu/aat/300132861,
+Textiles-Rugs & Carpets,rugs (textiles),http://vocab.getty.edu/aat/300185749,"carpets a subclass of rug, used higher level to cover both"
+Textiles-Tapestries,tapestries,http://vocab.getty.edu/aat/300205002,
+Textiles-Textiles,textiles (visual works),http://vocab.getty.edu/aat/300014063,

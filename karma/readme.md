@@ -1,5 +1,12 @@
 # AAT Term
 
+Source data requirement:
+
+- format in csv.
+- has header
+- column A is classification term, column B is AAT term, column C is AAT URI.
+- file name start with museum name abbreviation and a space.
+
 This script will generate following dictionary in python.
 
     {

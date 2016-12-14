@@ -1,0 +1,9 @@
+ROLE,AAT TERM,AAT LOD URI
+Artist,artists,http://vocab.getty.edu/aat/300025103 
+Author,authors,http://vocab.getty.edu/aat/300025492 
+Depicted individual,sitters,http://vocab.getty.edu/aat/300189844 
+Engraver,engravers,http://vocab.getty.edu/aat/300025165 
+Etcher,etchers,http://vocab.getty.edu/aat/300025174
+Formerly attributed to,formerly attributed to,http://vocab.getty.edu/aat/300404270
+Printer,printmakers,http://vocab.getty.edu/aat/300025164
+Publisher,publishers,http://vocab.getty.edu/aat/300025574
