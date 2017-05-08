@@ -42,7 +42,7 @@ if __name__ == '__main__':
                     if line_count == 1:
                         continue
                     row_dict = {'aat_term': row[1], 'aat_uri': row[2]}
-                    data_dict[museum][row[0]] = row_dict
+                    data_dict[museum][row[0].capitalize()] = row_dict
 
     with open(output_file, 'w') as f:
         f.write(generate_pylib(data_dict))
