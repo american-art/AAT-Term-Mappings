@@ -1,0 +1,28 @@
+Classification Term,AAT Term,AAT LOD URI,Remarks
+Art Implement,image-making equipment,http://vocab.getty.edu/aat/300162803 ,
+Artifact,artifacts (object genre),http://vocab.getty.edu/aat/300117127,
+Artist Materials,artists' materials,http://vocab.getty.edu/aat/300014842,
+Book,books,http://vocab.getty.edu/aat/300028051,
+Bound Object,prints (visual works),http://vocab.getty.edu/aat/300041273,"NPG is in the process of getting rid of the ""Bound Object"" classification. Almost all are prints that are bound in books, albums, etc. Most of these are catalogued as “virtual objects”, since there is a corresponding record for the book or album that they’re bound within."
+Coin,coins,http://vocab.getty.edu/aat/300037222,Two of NPG's 7 coins are not money and so might fit better under medal. 
+Collage,collages,http://vocab.getty.edu/aat/300033963,
+Costume,clothing,http://vocab.getty.edu/aat/300266639,
+Decorative Arts,decorative arts,http://vocab.getty.edu/aat/300054168,
+Digital Image,digital images,http://vocab.getty.edu/aat/300215302,
+Document,documents,http://vocab.getty.edu/aat/300026030,
+Drawing,drawings (visual works),http://vocab.getty.edu/aat/300033973 ,
+Jewelry,jewelry,http://vocab.getty.edu/aat/300209286,
+Medal,medals,http://vocab.getty.edu/aat/300046025,
+Mosaic,mosaics (visual works),http://vocab.getty.edu/aat/300015342,
+Other,man-made objects,http://vocab.getty.edu/aat/300386957,"Sketchbooks, 2 pressed paper portraits and a few works by Chuck Close that defy classification"
+Painting,paintings (visual works),http://vocab.getty.edu/aat/300033618 ,
+Periodical,periodicals,http://vocab.getty.edu/aat/300026657,
+Photograph,photographs,http://vocab.getty.edu/aat/300046300 ,
+Photographic Negative,negatives (photographs),http://vocab.getty.edu/aat/300127173,
+Positive Transparency,photographic transparencies,http://vocab.getty.edu/aat/300244116 ,"Selected this term over ""transparencies"" (http://vocab.getty.edu/aat/300127478 ) because it falls under ""direct positives"" under ""photographs"""
+Print,prints (visual works),http://vocab.getty.edu/aat/300041273 ,
+Printing Surface,printing surfaces (equipment),http://vocab.getty.edu/aat/300188811 ,
+Sculpture,sculptures (visual works),http://vocab.getty.edu/aat/300047090 ,
+Silhouette,silhouettes,http://vocab.getty.edu/aat/300015423 ,
+Textile,textiles (visual works),http://vocab.getty.edu/aat/300014063,
+Time-Based Media,time-based works,http://vocab.getty.edu/aat/300185191,
